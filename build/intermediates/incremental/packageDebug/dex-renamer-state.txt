@@ -1,0 +1,7 @@
+#Wed Mar 29 15:21:24 CST 2017
+base.0=E\:\\imageviewer-gl\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c89097516874d32d8976c78dda5029a301a335a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\imageviewer-gl\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bee1c641cac92e0769febbd89b63d728def29738\\classes.dex
+base.1=E\:\\imageviewer-gl\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bee1c641cac92e0769febbd89b63d728def29738
+file.0=E\:\\imageviewer-gl\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c89097516874d32d8976c78dda5029a301a335a\\classes.dex

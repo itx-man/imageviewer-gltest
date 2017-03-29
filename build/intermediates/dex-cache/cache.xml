@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\11041730\.android\build-cache\fb85960696dc95f412442e47d26ff656ae9e4f4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="E:\imageviewer-gl\build\intermediates\pre-dexed\debug\classes_e743f111764ff34408f1f13fea27bd8c4a3c4639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\imageviewer-gl\build\intermediates\pre-dexed\debug\support-v4-19.1.0_017839fc6850042c9dbb2e1401a52d112704e98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11041730\.android\build-cache\6290d28a646d3589315300698f0d5e7d46ce6ce3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\imageviewer-gl\build\intermediates\pre-dexed\debug\classes_f739b23460eee9e06c3733a4ced9e0a4cdb13668.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\imageviewer-gl\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\imageviewer-gl\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bee1c641cac92e0769febbd89b63d728def29738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\imageviewer-gl\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99c70bf6ab4f1e84684a3f7c77087b8635f99e3c">
+        <dex dex="E:\imageviewer-gl\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2c89097516874d32d8976c78dda5029a301a335a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="E:\imageviewer-gl\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha8_56c3ca59b4fefac06b225fa0558b6bde220aa298.jar" />
+    </item>
+
+</items>

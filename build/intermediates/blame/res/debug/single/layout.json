@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\imageviewer-gl\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\gl_root_group.xml",
+        "source": "E:\\imageviewer-gl\\res\\layout\\gl_root_group.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewer_gl.xml",
+        "source": "E:\\imageviewer-gl\\res\\layout\\image_viewer_gl.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\imageviewer-gl\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\11041730\\.android\\build-cache\\6290d28a646d3589315300698f0d5e7d46ce6ce3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    }
+]
